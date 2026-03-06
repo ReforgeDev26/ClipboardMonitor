@@ -1,4 +1,4 @@
-# 📋 Clipboard Manager
+# 📋 Clipboard Monitor
 
 [![Java Version](https://img.shields.io/badge/Java-17+-blue.svg)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -138,5 +138,6 @@ https://github.com/example
 
 ---
 ### 📄 Лицензия
+
 
 Этот проект распространяется под лицензией MIT. Подробнее в файле LICENSE.
